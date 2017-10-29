@@ -1,1 +1,1 @@
-[![alt text](https://img.shields.io/badge/Contribute-light-ff69b4.svg?style=flat-square)](//github.com/aeth1r/light/issues)
+[![alt text](https://img.shields.io/badge/Contribute-light-ff69b4.svg?style=flat-square)](//github.com/aeth1r/light/issues) [![alt text](https://img.shields.io/github/license/aeth1r/light.svg?style=flat-square)](//github.com/aeth1r/light/blob/master/LICENSE) [![alt text](https://img.shields.io/badge/Chat-On%20Gitter-brightred.svg?style=flat-square)](//gitter.im/aeth2r/light) 
